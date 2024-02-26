@@ -1,4 +1,5 @@
-import Card from "./Card";
+import Card from "./card";
+
 
 
 function Tours({tours}){
