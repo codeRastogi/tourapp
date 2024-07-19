@@ -1,4 +1,4 @@
-import Card from "./Card";
+import Card from "./Cards";
 function Tours({tours, removeTour}) {
     return (
         <div className="container">
